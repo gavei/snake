@@ -1,0 +1,5 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/snake">
+<file alias="main.qml">D:/QtProject/snake/main.qml</file>
+</qresource>
+</RCC>

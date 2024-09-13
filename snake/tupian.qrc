@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/UP.png</file>
+        <file>image/Down.png</file>
+        <file>image/left.png</file>
+        <file>image/right.png</file>
+    </qresource>
+</RCC>
